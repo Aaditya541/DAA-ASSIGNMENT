@@ -6,15 +6,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aaditya541/DAA-ASSIGNMENT/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
